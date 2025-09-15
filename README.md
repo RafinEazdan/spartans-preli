@@ -12,9 +12,9 @@ docker compose up -d --build
 ```
 
 The API will be available at:
-- **Main API**: http://localhost:8000
-- **API Documentation**: http://localhost:8000/docs
-- **Health Check**: http://localhost:8000/health
+- **Main API**: http://0.0.0.0:8000
+- **API Documentation**: http://0.0.0.0:8000/docs
+- **Health Check**: http://0.0.0.0:8000/health
 
 ## Testing the API
 
